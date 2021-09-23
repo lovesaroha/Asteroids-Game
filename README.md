@@ -3,4 +3,4 @@ Asteroids is a space-themed multidirectional shooter arcade game designed by Lyl
 
 ![game](https://raw.githubusercontent.com/lovesaroha/gimages/main/6.png)
 
-[lovesaroha/p/Asteroids-Game](https://lovesaroha.com/p/Asteroids-Game)
+[lovesaroha/Asteroids-Game](https://games.lovesaroha.com/Asteroids-Game)
